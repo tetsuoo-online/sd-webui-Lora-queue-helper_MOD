@@ -1,5 +1,7 @@
 Hi, this is Tetsuoo.
 
+This modified script is based on this : https://github.com/Yinzo/sd-webui-Lora-queue-helper
+
 Thanks to Claude AI, here are somes changes compared to the original script :
 
 - removed the root directory selected by default
